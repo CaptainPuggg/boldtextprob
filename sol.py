@@ -30,6 +30,7 @@ for i in range(1,len(lp)-1):
     
     
 res=''.join(res)
+print('hi')
         
     
     
